@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AA34D7C8-0E5D-BC68-3602-7FBFF2163986}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FPS/Scripts/Health.cs">
+    <Files>
+      <File FileName="Assets/FPS/Scripts/Health.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4b94b6eb-0697-49f6-8457-910c59ed27ac" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
