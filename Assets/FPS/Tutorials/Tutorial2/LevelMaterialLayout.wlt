@@ -427,7 +427,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/FPS/Art/Materials/Level
   m_LastFoldersGridSize: 90
-  m_LastProjectPath: /Users/momoleung/FPSfinalMOMO
+  m_LastProjectPath: /Users/amyguan/Downloads/UNITYpush1.7
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
